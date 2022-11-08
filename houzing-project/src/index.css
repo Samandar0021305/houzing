@@ -9,3 +9,12 @@ body{
   padding: 0;
   box-sizing: border-box;
 }
+
+:root{
+  /* color */
+  --colorPrimary:#0D263B;
+  --colorSecondary:#696969;
+
+  /* background */
+  --backgroundPrimary:#0061DF;
+}

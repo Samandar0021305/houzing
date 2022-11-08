@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Routes ,Route, Navigate } from 'react-router-dom'
 
-function index() {
+function Root() {
   return (
     <BrowserRouter>
      <Routes>
@@ -14,4 +14,4 @@ function index() {
   )
 }
 
-export default index
+export default Root
